@@ -1,0 +1,1 @@
+https://www.valentinog.com/blog/webpack/#working-with-modern-javascript
